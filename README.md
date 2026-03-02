@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/release-v0.0.1-blue" />
+  <img src="https://img.shields.io/badge/license-MIT-green" />
+  <img src="https://img.shields.io/github/issues/Abhishek6122008/Reserch-Earthquake-Project" />
+  <img src="https://img.shields.io/github/stars/Abhishek6122008/Reserch-Earthquake-Project?style=social" />
+  <img src="https://img.shields.io/github/forks/Abhishek6122008/Reserch-Earthquake-Project?style=social" />
+  <img src="https://img.shields.io/github/watchers/Abhishek6122008/Reserch-Earthquake-Project?style=social" />
+</p>
+
 # CNN Based P and S waves arrival detection
 
 ### Project Overview
