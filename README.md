@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://github.com/Abhishek6122008/Reserch-Earthquake-Project">
     <img 
-      src="https://i.postimg.cc/7L8fCLpy/Gray-and-Green-Minimalist-Quote-Desktop-Wallpaper.png"
+      src="https://postimg.cc/8FPxwTxQ"
       alt="Quantum Leap"
       width="900"
       style="border-radius: 20px;"
