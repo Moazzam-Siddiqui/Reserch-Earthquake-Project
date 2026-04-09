@@ -247,7 +247,7 @@ The CNN significantly improved detection accuracy and generalization across seis
 <li>Precision</li>
 <li>Recall</li>
 <li>F1 Score</li>
-<li>Mean Absolute Error (arrival time)</li>
+<li>Mean Absolute Error</li>
 <li>Detection latency</li>
 </ul>
 
